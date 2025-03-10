@@ -3,9 +3,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":0,
+      "id":0,
       "resturentName":"Sweet Red",
-      "dish":"Burger",
+      "name":"Burger",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.8,
       "deliveryTime":30,
@@ -17,9 +17,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":1,
+      "id":1,
       "resturentName":"Ahuja's",
-      "dish":"Burger",
+      "name":"Burger",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":3.8,
       "deliveryTime":30,
@@ -31,9 +31,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":2,
+      "id":2,
       "resturentName":"Zomato",
-      "dish":"Burger",
+      "name":"Burger",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.9,
       "deliveryTime":30,
@@ -45,9 +45,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":3,
+      "id":3,
       "resturentName":"KFC",
-      "dish":"Fried Chicken",
+      "name":"Fried Chicken",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.0,
       "deliveryTime":30,
@@ -59,9 +59,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":4,
+      "id":4,
       "resturentName":"Shiva Food Station",
-      "dish":"Burger",
+      "name":"Burger",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":3.8,
       "deliveryTime":30,
@@ -73,9 +73,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":5,
+      "id":5,
       "resturentName":"Ahemdabadi Cusines",
-      "dish":"Indian Thali",
+      "name":"Indian Thali",
       "about":"Best Ahemdabadi Cusines Around You,Order It right Now And Have Lots Of Discount ",
       "rating":4.7,
       "deliveryTime":30,
@@ -87,9 +87,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":6,
+      "id":6,
       "resturentName":"Zomato",
-      "dish":"Veg THALI",
+      "name":"Veg THALI",
       "about":"Zomato ,Quick  Delivery And Order Best Food Around",
       "rating":4.4,
       "deliveryTime":30,
@@ -101,9 +101,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":7,
+      "id":7,
       "resturentName":"KFC",
-      "dish":"KFC House Full",
+      "name":"KFC House Full",
       "about":"KFC,Exprience New Things , YAhOOOo",
       "rating":4.1,
       "deliveryTime":30,
@@ -115,9 +115,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":8,
+      "id":8,
       "resturentName":"Taste Of South",
-      "dish":"Masala  Dosa",
+      "name":"Masala  Dosa",
       "about":"Order All Kind Of South Indian Food And get Lot's Of Discount On Each Order",
       "rating":4.3,
       "deliveryTime":30,
@@ -129,9 +129,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":9,
+      "id":9,
       "resturentName":"Hot Point",
-      "dish":"Biryani",
+      "name":"Biryani",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.7,
       "deliveryTime":30,
@@ -143,9 +143,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":10,
+      "id":10,
       "resturentName":"Pizza Hut",
-      "dish":"Pizza",
+      "name":"Pizza",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.5,
       "deliveryTime":30,
@@ -157,9 +157,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":11,
+      "id":11,
       "resturentName":"Zomato",
-      "dish":"Biryani",
+      "name":"Biryani",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.9,
       "deliveryTime":30,
@@ -171,9 +171,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":12,
+      "id":12,
       "resturentName":"Fast Food",
-      "dish":"Noodle",
+      "name":"Noodle",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":3.4,
       "deliveryTime":30,
@@ -185,9 +185,9 @@ const resObj=[
     "type":"resturent",
   
     "data":{
-      "resId":13,
+      "id":13,
       "resturentName":"Swiggy",
-      "dish":"Veg. THALI",
+      "name":"Veg. THALI",
       "about":"Order up to more than 100's of different variety of food's and get upto 50% cash Back",
       "rating":4.9,
       "deliveryTime":30,
